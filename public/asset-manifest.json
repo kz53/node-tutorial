@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7271efbc.chunk.css",
+    "main.js": "/static/js/main.cd229f44.chunk.js",
+    "main.js.map": "/static/js/main.cd229f44.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2258f6a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2258f6a9.js.map",
+    "static/js/2.a4ef0c39.chunk.js": "/static/js/2.a4ef0c39.chunk.js",
+    "static/js/2.a4ef0c39.chunk.js.map": "/static/js/2.a4ef0c39.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85e2b2f47ed9c932a6c4a55ebf24ed10.js": "/precache-manifest.85e2b2f47ed9c932a6c4a55ebf24ed10.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7271efbc.chunk.css.map": "/static/css/main.7271efbc.chunk.css.map",
+    "static/js/2.a4ef0c39.chunk.js.LICENSE.txt": "/static/js/2.a4ef0c39.chunk.js.LICENSE.txt",
+    "static/media/ancient-walls.png": "/static/media/ancient-walls.44e9da3c.png",
+    "static/media/bank.png": "/static/media/bank.4807a193.png",
+    "static/media/campus.png": "/static/media/campus.55755e17.png",
+    "static/media/city-center.png": "/static/media/city-center.76da54a4.png",
+    "static/media/commercial-hub.png": "/static/media/commercial-hub.4b25ddb6.png",
+    "static/media/granary.png": "/static/media/granary.2726944d.png",
+    "static/media/library.png": "/static/media/library.a636c0e0.png",
+    "static/media/market.png": "/static/media/market.e383d4a6.png",
+    "static/media/monument.png": "/static/media/monument.46c6c260.png",
+    "static/media/sewer.png": "/static/media/sewer.ac686f5c.png",
+    "static/media/university.png": "/static/media/university.71aa4cd5.png",
+    "static/media/water-mill.png": "/static/media/water-mill.1714bb54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2258f6a9.js",
+    "static/js/2.a4ef0c39.chunk.js",
+    "static/css/main.7271efbc.chunk.css",
+    "static/js/main.cd229f44.chunk.js"
+  ]
+}
